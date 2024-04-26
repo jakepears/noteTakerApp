@@ -33,7 +33,7 @@ The deployed application can be accessed by clicking on the following link: [Not
 
 ## Screenshot
 
-![Note Taker](.public/assets/imgs/screenshot.png)
+![Note Taker](./public/assets/imgs/screenshot.png)
 
 ## License
 
